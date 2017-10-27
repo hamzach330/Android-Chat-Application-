@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293763827148",
+    "firebase_url": "https://chat-4c67c.firebaseio.com",
+    "project_id": "chat-4c67c",
+    "storage_bucket": "chat-4c67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293763827148:android:7be638b8a24d5798",
+        "android_client_info": {
+          "package_name": "com.example.hamza.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293763827148-luo7pns0i79kqkp2iud4us3gvgif3o6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKSGWof3xKukniYpFUto1h14uUt3YByc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
